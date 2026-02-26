@@ -11,13 +11,14 @@
             "id": "4460159fb4ad1cc1",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Books/Bookshelf.base",
-                "viewName": "Cards"
+                "file": "Templates/Book Notes.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-layout-grid",
-              "title": "Bookshelf"
+              "icon": "lucide-file",
+              "title": "Book Notes"
             }
           }
         ]
@@ -195,9 +196,9 @@
   },
   "active": "4460159fb4ad1cc1",
   "lastOpenFiles": [
-    "Templates/Book Notes.md",
-    "Books/Bookshelf.base",
     "Books/Book Notes (DUNE 1).md",
+    "Books/Bookshelf.base",
+    "Templates/Book Notes.md",
     "Untitled.base",
     "Templates",
     "Books",

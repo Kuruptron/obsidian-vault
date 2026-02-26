@@ -15,12 +15,6 @@ finished:
 ## 🖼️ Cover
 ![|200]({{value:cover}})
 
----
-
-## 📊 Reading Progress
-<br>
-> [!NOTE] Progress
-> `$= const p = dv.current(); const progress = Math.min(100, Math.round((p.pages_read / p.pages_total) * 100) || 0); "<progress value='" + progress + "' max='100'></progress> " + progress + "%"`
 
 ---
 

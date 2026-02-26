@@ -16,12 +16,6 @@ finished:
 ![|200](https://m.media-amazon.com/images/I/71oO1E-XPuL._AC_UF1000,1000_QL80_.jpg)
 
 ---
-## 📊 Reading Progress
-<br>
-> [!NOTE] Progress
-> `$= const p = dv.current(); const progress = Math.min(100, Math.round((p.pages_read / p.pages_total) * 100) || 0); "<progress value='" + progress + "' max='100'></progress> " + progress + "%"`
-
----
 ## 📝 Quick Summary
 > [!ABSTRACT] One-Sentence Pitch
 > A young noble becomes the messiah of a desert planet while fighting for control of the galaxy's most valuable substance: spice.
