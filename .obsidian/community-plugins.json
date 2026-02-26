@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "obsidian-book-search-plugin"
+  "obsidian-book-search-plugin",
+  "templater-obsidian",
+  "dataview"
 ]

@@ -8,16 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96632de1d0185a60",
+            "id": "c112b1205e30edaf",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "personal_Vault/Books/Untitled.base",
-                "viewName": "Table"
+                "file": "personal_Vault/Books/Book Notes (DUNE 1).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Book Notes (DUNE 1)"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal_Vault/Books/Untitled.base",
+                "file": "personal_Vault/Books/Books.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Books"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal_Vault/Books/Untitled.base",
+                "file": "personal_Vault/Books/Books.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Books"
             }
           },
           {
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal_Vault/Books/Untitled.base",
+                "file": "personal_Vault/Books/Books.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Books"
             }
           },
           {
@@ -191,15 +192,26 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "96632de1d0185a60",
+  "active": "c112b1205e30edaf",
   "lastOpenFiles": [
-    "personal_Vault/Books/This should not be displayed.md",
-    "personal_Vault/Books/Untitled.base",
+    "personal_Vault/Templates/Book Notes.md",
+    "personal_Vault/Books/Book Notes (DUNE 1).md",
+    "personal_Vault/Books/Bookshelf.base",
+    "personal_Vault/Books/Untitled.md",
+    "personal_Vault/Books/Bookshelf.md",
+    "personal_Vault/Books/Books.base",
+    "personal_Vault/Books/Book Notes(DUNE 1).md",
+    "Pasted image 20260226105436.png",
+    "Pasted image 20260226105804.png",
     "personal_Vault/Books",
-    "personal_Vault/Books/Untitled.base",
+    "personal_Vault/Templates",
+    "personal_Vault/Welcome.md",
+    "personal_Vault/Books/This should not be displayed.md",
+    "personal_Vault/Books",
     "personal_Vault/Untitled.base",
     "New file.md",
     "personal_Vault/Books"

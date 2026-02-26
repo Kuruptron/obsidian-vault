@@ -1,0 +1,17 @@
+formulas:
+  Untitled: ""
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.name.startsWith("Book Notes")
+        - file.inFolder("personal_Vault/Books")
+    order:
+      - file.name
+      - status
+      - author
+      - rating
+      - genre
+    image: note.cover
+    imageFit: contain
