@@ -6,7 +6,7 @@ views:
     filters:
       and:
         - file.name.startsWith("Book Notes")
-        - file.inFolder("personal_Vault/Books")
+        - file.inFolder("Books")
     order:
       - file.name
       - status

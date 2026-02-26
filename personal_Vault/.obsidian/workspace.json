@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Books/Bookshelf.base",
+                "viewName": "Cards"
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-layout-grid",
+              "title": "Bookshelf"
             }
           }
         ]
@@ -195,8 +195,13 @@
   },
   "active": "4460159fb4ad1cc1",
   "lastOpenFiles": [
-    "New file.md",
+    "Templates/Book Notes.md",
+    "Books/Bookshelf.base",
+    "Books/Book Notes (DUNE 1).md",
     "Untitled.base",
+    "Templates",
+    "Books",
+    "New file.md",
     "Welcome.md",
     "new file.md"
   ]
