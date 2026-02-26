@@ -1,17 +1,41 @@
 formulas:
   Untitled: ""
+  Progress: (pages_read/pages_total*100).toFixed(2) + " %"
 views:
   - type: cards
-    name: Cards
+    name: Reading
+    filters:
+      and:
+        - file.inFolder("Books")
+        - status == "🟢 Reading"
+    order:
+      - file.name
+      - formula.Progress
+    image: note.cover
+    imageFit: contain
+  - type: cards
+    name: All Books
     filters:
       and:
         - file.name.startsWith("Book Notes")
         - file.inFolder("Books")
     order:
-      - file.name
+      - Title
       - status
       - author
       - rating
       - genre
+      - formula.Progress
     image: note.cover
     imageFit: contain
+  - type: cards
+    name: Want to Read
+    filters:
+      and:
+        - file.hasProperty("status")
+        - status == "🟡 To-Read"
+    order:
+      - file.name
+      - pages_total
+    imageFit: contain
+    image: note.cover

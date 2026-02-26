@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a3f7e634cb38e7ab",
+        "id": "e608cb720c62a62e",
         "type": "tabs",
         "children": [
           {
-            "id": "4460159fb4ad1cc1",
+            "id": "5f4337d801e669ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Book Notes.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Book Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -194,11 +190,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4460159fb4ad1cc1",
+  "active": "5f4337d801e669ef",
   "lastOpenFiles": [
-    "Books/Book Notes (DUNE 1).md",
+    "Books/Anna Karenina.md",
+    "Pasted image 20260226215838.png",
+    "Books/The Shining.md",
     "Books/Bookshelf.base",
-    "Templates/Book Notes.md",
+    "Books/Insomnia.md",
+    "Books/DUNE 1.md",
+    "Pasted image 20260226215627.png",
+    "Pasted image 20260226215554.png",
+    "Pasted image 20260226215434.png",
+    "Pasted image 20260226215420.png",
+    "Books/Untitled.md",
+    "Templates/Title.md",
     "Untitled.base",
     "Templates",
     "Books",

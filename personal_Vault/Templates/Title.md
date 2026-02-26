@@ -1,19 +1,20 @@
 ---
-author: 
-genre: 
+Title:
+author:
+genre:
 status: 🟢 Reading / 🟡 To-Read / ⚫ Finished
 rating: ⭐⭐⭐⭐⭐
-cover: 
+cover:
 pages_total: 100
 pages_read: 0
-started: 
-finished: 
+started:
+finished:
 ---
 
-# {{title}}
+
 
 ## 🖼️ Cover
-![|200]({{value:cover}})
+![|200](value:cover)
 
 
 ---

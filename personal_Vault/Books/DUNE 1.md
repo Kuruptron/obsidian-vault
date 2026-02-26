@@ -1,10 +1,11 @@
 ---
+Title: DUNE 1
 author: Frank Herbert
 genre: Science Fiction
 status: 🟢 Reading
 rating:
-cover: https://m.media-amazon.com/images/I/71oO1E-XPuL._AC_UF1000,1000_QL80_.jpg
-started: 2024-05-20
+cover: "[[Pasted image 20260226215627.png]]"
+started: 2025-11-20
 pages_total: 595
 pages_read: 55
 finished:
@@ -13,7 +14,7 @@ finished:
 # Dune
 
 ## 🖼️ Cover
-![|200](https://m.media-amazon.com/images/I/71oO1E-XPuL._AC_UF1000,1000_QL80_.jpg)
+![[Pasted image 20260226215627.png]]
 
 ---
 ## 📝 Quick Summary
