@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "da77b1932e258867",
+        "id": "89a895e31688de2b",
         "type": "tabs",
         "children": [
           {
-            "id": "899d77284edd2191",
+            "id": "96632de1d0185a60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "New file.md",
-                "mode": "source",
-                "source": false
+                "file": "personal_Vault/Books/Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "New file"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New file.md",
+                "file": "personal_Vault/Books/Untitled.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New file"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New file.md",
+                "file": "personal_Vault/Books/Untitled.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from New file"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -156,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New file.md",
+                "file": "personal_Vault/Books/Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New file"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -191,9 +190,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "899d77284edd2191",
-  "lastOpenFiles": []
+  "active": "96632de1d0185a60",
+  "lastOpenFiles": [
+    "personal_Vault/Books/This should not be displayed.md",
+    "personal_Vault/Books/Untitled.base",
+    "personal_Vault/Books",
+    "personal_Vault/Books/Untitled.base",
+    "personal_Vault/Untitled.base",
+    "New file.md",
+    "personal_Vault/Books"
+  ]
 }
