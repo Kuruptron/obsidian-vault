@@ -11,5 +11,9 @@ views:
     groupBy:
       property: status
       direction: DESC
+    order:
+      - file.name
+      - pages_read
+      - pages_total
     image: note.cover
     imageFit: contain
