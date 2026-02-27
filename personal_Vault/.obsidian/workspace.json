@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a3f7e634cb38e7ab",
+        "id": "e608cb720c62a62e",
         "type": "tabs",
         "children": [
           {
-            "id": "4460159fb4ad1cc1",
+            "id": "5f4337d801e669ef",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Books/Bookshelf.base",
+                "viewName": "All Books"
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-layout-grid",
+              "title": "Bookshelf"
             }
           }
         ]
@@ -193,10 +193,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4460159fb4ad1cc1",
+  "active": "5f4337d801e669ef",
   "lastOpenFiles": [
-    "New file.md",
+    "Books/Anna Karenina.md",
+    "Data/Pasted image 20260226215420.png",
+    "Data",
+    "Books/Bookshelf.base",
+    "Data/Pasted image 20260226215838.png",
+    "Books/The Shining.md",
+    "Books/Insomnia.md",
+    "Books/DUNE 1.md",
+    "Data/Pasted image 20260226215627.png",
+    "Data/Pasted image 20260226215554.png",
+    "Data/Pasted image 20260226215434.png",
+    "Books/Untitled.md",
+    "Templates/Title.md",
     "Untitled.base",
+    "Templates",
+    "Books",
+    "New file.md",
     "Welcome.md",
     "new file.md"
   ]

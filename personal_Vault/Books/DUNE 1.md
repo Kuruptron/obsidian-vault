@@ -1,11 +1,18 @@
 ---
+Title: DUNE 1
 author: Frank Herbert
 genre: Science Fiction
 status: 🟢 Reading
 rating:
+<<<<<<< HEAD:personal_Vault/Books/Book Notes (DUNE 1).md
 cover: https://m.media-amazon.com/images/I/71oO1E-XPuL._AC_UF1000,1000_QL80_.jpg
 started: 2024-05-20
 pages_total: 593
+=======
+cover: "[[Pasted image 20260226215627.png]]"
+started: 2025-11-20
+pages_total: 595
+>>>>>>> origin/main:personal_Vault/Books/DUNE 1.md
 pages_read: 55
 finished:
 ---
@@ -13,13 +20,7 @@ finished:
 # Dune
 
 ## 🖼️ Cover
-![|200](https://m.media-amazon.com/images/I/71oO1E-XPuL._AC_UF1000,1000_QL80_.jpg)
-
----
-## 📊 Reading Progress
-<br>
-> [!NOTE] Progress
-> `$= const p = dv.current(); const progress = Math.min(100, Math.round((p.pages_read / p.pages_total) * 100) || 0); "<progress value='" + progress + "' max='100'></progress> " + progress + "%"`
+![[Pasted image 20260226215627.png]]
 
 ---
 ## 📝 Quick Summary

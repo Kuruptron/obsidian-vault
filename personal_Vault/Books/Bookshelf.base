@@ -1,17 +1,22 @@
 formulas:
   Untitled: ""
+  Progress: (pages_read/pages_total*100).toFixed(2) + " %"
 views:
   - type: cards
-    name: Cards
+    name: All Books
     filters:
       and:
-        - file.name.startsWith("Book Notes")
-        - file.inFolder("personal_Vault/Books")
+        - file.inFolder("Books")
+        - file.hasProperty("Title")
+    groupBy:
+      property: status
+      direction: DESC
     order:
-      - file.name
+      - Title
       - status
       - author
       - rating
       - genre
+      - formula.Progress
     image: note.cover
     imageFit: contain
