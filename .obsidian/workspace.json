@@ -11,10 +11,13 @@
             "id": "89afa1eb21e2d81f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "personal_Vault/Books/Bookshelf.base",
+                "viewName": "All Books"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Bookshelf"
             }
           }
         ]
@@ -192,16 +195,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bdca71fdda3437f9",
+  "active": "89afa1eb21e2d81f",
   "lastOpenFiles": [
+    "personal_Vault/Books/DUNE 1.md",
+    "[[Pasted.md",
     "personal_Vault/Books/Bookshelf.base",
+    "personal_Vault/Books/Insomnia.md",
     "conflict-files-obsidian-git.md",
     "personal_Vault/Books/Anna Karenina.md",
     "personal_Vault/Books/The Shining.md",
-    "personal_Vault/Books/Insomnia.md",
     "personal_Vault/Data/Pasted image 20260226215420.png",
     "personal_Vault/Work/Works Done till now.md",
-    "personal_Vault/Books/DUNE 1.md",
     "personal_Vault/Templates/Title.md",
     "personal_Vault/Data/Pasted image 20260226215838.png",
     "personal_Vault/Data/Pasted image 20260226215627.png",

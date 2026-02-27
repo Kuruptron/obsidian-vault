@@ -6,17 +6,10 @@ views:
     name: All Books
     filters:
       and:
-        - file.inFolder("Books")
+        - file.inFolder("personal_Vault/Books")
         - file.hasProperty("Title")
     groupBy:
       property: status
       direction: DESC
-    order:
-      - Title
-      - status
-      - author
-      - rating
-      - genre
-      - formula.Progress
     image: note.cover
     imageFit: contain

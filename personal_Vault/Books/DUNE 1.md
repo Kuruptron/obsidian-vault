@@ -3,22 +3,19 @@ Title: DUNE 1
 author: Frank Herbert
 genre: Science Fiction
 status: 🟢 Reading
-rating:
-<<<<<<< HEAD
-<<<<<<< HEAD:personal_Vault/Books/Book Notes (DUNE 1).md
-cover: https://m.media-amazon.com/images/I/71oO1E-XPuL._AC_UF1000,1000_QL80_.jpg
-started: 2024-05-20
-pages_total: 593
-=======
-=======
->>>>>>> origin/main
+rating: ⭐⭐⭐⭐⭐
 cover: "[[Pasted image 20260226215627.png]]"
 started: 2025-11-20
 pages_total: 595
->>>>>>> origin/main:personal_Vault/Books/DUNE 1.md
 pages_read: 55
 finished:
 ---
+
+# DUNE 1
+
+## 📝 Quick Summary
+> [!ABSTRACT] One-Sentence Pitch
+> A young noble becomes the messiah of a desert planet while fighting for control of the galaxy's most valuable substance: spice.
 
 # Dune
 
