@@ -11,13 +11,14 @@
             "id": "5f4337d801e669ef",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Books/Bookshelf.base",
-                "viewName": "All Books"
+                "file": "Work/Works Done till now.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Bookshelf"
+              "icon": "lucide-file",
+              "title": "Works Done till now"
             }
           }
         ]
@@ -195,19 +196,22 @@
   },
   "active": "5f4337d801e669ef",
   "lastOpenFiles": [
+    "Templates/Title.md",
+    "Books/Insomnia.md",
+    "Books/The Shining.md",
+    "TODO.md",
+    "Books/Bookshelf.base",
+    "Work/Works Done till now.md",
+    "Work",
     "Books/Anna Karenina.md",
     "Data/Pasted image 20260226215420.png",
     "Data",
-    "Books/Bookshelf.base",
     "Data/Pasted image 20260226215838.png",
-    "Books/The Shining.md",
-    "Books/Insomnia.md",
     "Books/DUNE 1.md",
     "Data/Pasted image 20260226215627.png",
     "Data/Pasted image 20260226215554.png",
     "Data/Pasted image 20260226215434.png",
     "Books/Untitled.md",
-    "Templates/Title.md",
     "Untitled.base",
     "Templates",
     "Books",
