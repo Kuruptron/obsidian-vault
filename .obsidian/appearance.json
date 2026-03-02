@@ -1,5 +1,6 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "theme": "moonstone",
-  "accentColor": ""
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "accentColor": "#8155a5",
+  "interfaceFontFamily": ""
 }
