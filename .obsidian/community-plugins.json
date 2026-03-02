@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-book-search-plugin",
   "templater-obsidian",
-  "dataview"
+  "dataview",
+  "obsidian-style-settings"
 ]

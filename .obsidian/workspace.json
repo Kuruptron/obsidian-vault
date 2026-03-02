@@ -11,13 +11,14 @@
             "id": "89afa1eb21e2d81f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "personal_Vault/Books/Bookshelf.base",
-                "viewName": "All Books"
+                "file": "personal_Vault/Books/Anna Karenina.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Bookshelf"
+              "icon": "lucide-file",
+              "title": "Anna Karenina"
             }
           }
         ]
@@ -197,6 +198,8 @@
   },
   "active": "89afa1eb21e2d81f",
   "lastOpenFiles": [
+    "personal_Vault/Data/Pasted image 20260226215420.png",
+    "personal_Vault/Ideas.md",
     "personal_Vault/Books/DUNE 1.md",
     "[[Pasted.md",
     "personal_Vault/Books/Bookshelf.base",
@@ -204,7 +207,6 @@
     "conflict-files-obsidian-git.md",
     "personal_Vault/Books/Anna Karenina.md",
     "personal_Vault/Books/The Shining.md",
-    "personal_Vault/Data/Pasted image 20260226215420.png",
     "personal_Vault/Work/Works Done till now.md",
     "personal_Vault/Templates/Title.md",
     "personal_Vault/Data/Pasted image 20260226215838.png",
