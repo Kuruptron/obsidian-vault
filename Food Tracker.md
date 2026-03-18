@@ -2,7 +2,7 @@
 | **Time** | **Food**                  | **Feeling**  |     |
 | -------- | ------------------------- | ------------ | --- |
 | 8:30     | Coffee , Bread and Butter | Sleepy at 10 |     |
-|          |                           |              |     |
+| 12:00    | chips                     | feeling full |     |
 |          |                           |              |     |
 |          |                           |              |     |
 |          |                           |              |     |
