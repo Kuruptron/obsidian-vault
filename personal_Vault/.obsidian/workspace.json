@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pitch Deck - Heart Medical Centre.md",
+                "file": "Possible clients.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pitch Deck - Heart Medical Centre"
+              "title": "Possible clients"
             }
           }
         ]
@@ -196,7 +196,8 @@
   },
   "active": "65428a2eb11ee08b",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Untitled 1.md",
+    "Possible clients.md",
     "Pitch Deck - Heart Medical Centre.md",
     "Ideas.md",
     "Outreach prompt.md",
